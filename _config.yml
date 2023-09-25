@@ -11,9 +11,9 @@ title                    : "Mélanie Gittard"
 title_separator          : "-"
 name                     : &name "Mélanie Gittard"
 description              : &description "Environmental and Development Economist"
-url                      : https://melaniegittard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gittardmelanie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "melaniegittard/melaniegittard.github.io"
+repository               : "gittardmelanie/gittardmelanie.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/m%C3%A9lanie-gittard-160b85a6/?originalSubdomain=fr"
+  linkedin         : 
   orcid            :
   pinterest        :
   soundcloud       :
